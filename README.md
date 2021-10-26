@@ -1,4 +1,4 @@
-#Learning from morning till now
+# Learning from morning till now
 * What is repository
 * Version Control System
 * Difference between Central VCS and Distributed VCS.
